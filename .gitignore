@@ -1,5 +1,6 @@
 # Ignore directories
 .vscode/
+codemixQAC_database/
 
 # Ignore specific files
 sft_mt5_autocomplete.ipynb
