@@ -1,0 +1,8 @@
+# Ignore directories
+.vscode/
+
+# Ignore specific files
+sft_mt5_autocomplete.ipynb
+
+# Ignore file types
+*.pdf
